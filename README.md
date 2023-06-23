@@ -34,13 +34,14 @@ The Facebook Clone Project is built using the following technologies:
 * CSS  : Used for styling the web pages and providing visual aesthetics.
 
 # Project Structure
--'index.html': Main HTML file
--'style.css': Stylesheet file
+
+- "index.html" : Main HTML file
+- "style.css" : Stylesheet file
 
 # Google Drive Clone 
 * created with sandbox
 
-# Contributions
+# Contribution
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request. Your contributions will be reviewed and greatly appreciated.
 
 
