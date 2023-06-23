@@ -22,8 +22,6 @@ User Registration: Users can create an account by providing their details such a
 User Login: Registered users can log in to their accounts using their credentials.
 User Profile: Each user has a profile page displaying their information, profile picture, and posts.
 
-
-
 # Usage
 Once the project is set up, you can navigate through the various pages and features using the navigation bar and buttons provided. You can create an account, log in, search for friends, view profiles, create posts, and interact with other users' posts.
 
@@ -33,6 +31,13 @@ Feel free to explore the project and interact with its functionalities. Please n
 The Facebook clone project is built using the following technologies:
 * HTML: Used for structuring the web pages and content.
 * CSS: Used for styling the web pages and providing visual aesthetics.
+
+# Project Structure
+* index.html : Main HTML file
+* style.css : Stylesheet file
+
+# Google Drive Clone 
+* created with sandbox
 
 # Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request. Your contributions will be reviewed and greatly appreciated.
