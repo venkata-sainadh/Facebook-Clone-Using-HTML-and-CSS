@@ -40,7 +40,7 @@ The Facebook Clone Project is built using the following technologies:
 # Google Drive Clone 
 * created with sandbox
 
-# Contributing
+# Contributions
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request. Your contributions will be reviewed and greatly appreciated.
 
 
