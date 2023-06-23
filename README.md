@@ -28,9 +28,10 @@ Once the project is set up, you can navigate through the various pages and featu
 Feel free to explore the project and interact with its functionalities. Please note that this is a clone project and does not have all the features and complexities of the actual Facebook platform.
 
 # Technologies Used
-The Facebook clone project is built using the following technologies:
-* HTML: Used for structuring the web pages and content.
-* CSS: Used for styling the web pages and providing visual aesthetics.
+
+The Facebook Clone Project is built using the following technologies:
+* HTML : Used for structuring the web pages and content.
+* CSS  : Used for styling the web pages and providing visual aesthetics.
 
 # Project Structure
 -'index.html' : Main HTML file
