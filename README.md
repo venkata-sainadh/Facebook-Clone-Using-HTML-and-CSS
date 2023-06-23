@@ -1,6 +1,6 @@
 # Facebook-Clone-Using-HTML-and-CSS
 Check out my GitHub repository for a Facebook clone! This project is a testament to my skills in front-end development and attention to detail.I have recreated the familiar interface and functionality of Google Drive, allowing users to manage files and folders in a seamless and user-friendly manner. Explore the code and design.
-#Facebook Clone
+# Facebook Clone
 This project is a Facebook clone created using HTML and CSS. It aims to replicate the basic functionalities and design of the popular social media platform, allowing users to create profiles, connect with friends, and share posts.
 
 # Table of Contents
