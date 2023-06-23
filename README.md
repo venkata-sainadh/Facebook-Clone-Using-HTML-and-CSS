@@ -4,11 +4,11 @@ Check out my GitHub repository for a Facebook clone! This project is a testament
 This project is a Facebook clone created using HTML and CSS. It aims to replicate the basic functionalities and design of the popular social media platform, allowing users to create profiles, connect with friends, and share posts.
 
 # Table of Contents
-Installation
-Features
-Usage
-Technologies Used
-Contributing
+* Installation
+* Features
+* Usage
+* Technologies Used
+* Contributing
 
 # Installation
 To run the Facebook clone project locally, follow these steps:
@@ -31,8 +31,8 @@ Feel free to explore the project and interact with its functionalities. Please n
 
 # Technologies Used
 The Facebook clone project is built using the following technologies:
-HTML: Used for structuring the web pages and content.
-CSS: Used for styling the web pages and providing visual aesthetics.
+* HTML: Used for structuring the web pages and content.
+* CSS: Used for styling the web pages and providing visual aesthetics.
 
 # Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request. Your contributions will be reviewed and greatly appreciated.
